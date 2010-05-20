@@ -1,1 +1,1 @@
-Test git 
+This Demo project uses SpringMVC, hibernate, and build with maven2
