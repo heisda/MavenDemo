@@ -1,1 +1,2 @@
-This Demo project uses SpringMVC, hibernate, and build with maven2
+This Demo project created by SpringMVC, hibernate, and builds with maven2
+
